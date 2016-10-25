@@ -1,0 +1,97 @@
+D:\visual studio\programok\GameDX\PathFinder\obj\Debug\PathFinder.csprojResolveAssemblyReference.cache
+D:\visual studio\programok\GameDX\PathFinder\bin\Debug\Assimp32.dll
+D:\visual studio\programok\GameDX\PathFinder\bin\Debug\Assimp64.dll
+D:\visual studio\programok\GameDX\PathFinder\bin\Debug\PathFinder.dll
+D:\visual studio\programok\GameDX\PathFinder\bin\Debug\PathFinder.pdb
+D:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.D3DCompiler.dll
+D:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.Direct2D1.dll
+D:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.Direct3D11.dll
+D:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.dll
+D:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.DXGI.dll
+D:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.Toolkit.Compiler.dll
+D:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.Toolkit.dll
+D:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.Toolkit.Game.dll
+D:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.Toolkit.Graphics.dll
+D:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.Direct3D9.dll
+D:\visual studio\programok\GameDX\PathFinder\bin\Debug\AssimpNet.dll
+D:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.xml
+D:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.Direct3D11.xml
+D:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.DXGI.xml
+D:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.Toolkit.xml
+D:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.Toolkit.Game.xml
+D:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.Toolkit.Graphics.xml
+D:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.Toolkit.Compiler.xml
+D:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.D3DCompiler.xml
+D:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.Direct2D1.xml
+D:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.Direct3D9.xml
+D:\visual studio\programok\GameDX\PathFinder\bin\Debug\AssimpNet.xml
+D:\visual studio\programok\GameDX\PathFinder\obj\Debug\PathFinder.dll
+D:\visual studio\programok\GameDX\PathFinder\obj\Debug\PathFinder.pdb
+D:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.Toolkit.Input.dll
+D:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.Toolkit.Input.xml
+D:\visual studio\programok\GameDX\PathFinder\bin\Debug\steam.dll
+D:\visual studio\programok\GameDX\PathFinder\bin\Debug\steam.pdb
+G:\visual studio\programok\GameDX\PathFinder\obj\Debug\PathFinder.csprojResolveAssemblyReference.cache
+G:\visual studio\programok\GameDX\PathFinder\obj\Debug\PathFinder.dll
+G:\visual studio\programok\GameDX\PathFinder\obj\Debug\PathFinder.pdb
+G:\visual studio\programok\GameDX\PathFinder\bin\Debug\Assimp32.dll
+G:\visual studio\programok\GameDX\PathFinder\bin\Debug\Assimp64.dll
+G:\visual studio\programok\GameDX\PathFinder\bin\Debug\PathFinder.dll
+G:\visual studio\programok\GameDX\PathFinder\bin\Debug\PathFinder.pdb
+G:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.D3DCompiler.dll
+G:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.Direct2D1.dll
+G:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.Direct3D11.dll
+G:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.dll
+G:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.DXGI.dll
+G:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.Toolkit.Compiler.dll
+G:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.Toolkit.dll
+G:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.Toolkit.Game.dll
+G:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.Toolkit.Graphics.dll
+G:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.Toolkit.Input.dll
+G:\visual studio\programok\GameDX\PathFinder\bin\Debug\steam.dll
+G:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.Direct3D9.dll
+G:\visual studio\programok\GameDX\PathFinder\bin\Debug\AssimpNet.dll
+G:\visual studio\programok\GameDX\PathFinder\bin\Debug\steam.pdb
+G:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.xml
+G:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.Direct3D11.xml
+G:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.DXGI.xml
+G:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.Toolkit.xml
+G:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.Toolkit.Game.xml
+G:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.Toolkit.Graphics.xml
+G:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.Toolkit.Input.xml
+G:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.Toolkit.Compiler.xml
+G:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.D3DCompiler.xml
+G:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.Direct2D1.xml
+G:\visual studio\programok\GameDX\PathFinder\bin\Debug\SharpDX.Direct3D9.xml
+G:\visual studio\programok\GameDX\PathFinder\bin\Debug\AssimpNet.xml
+D:\dokumentumok\Visual Studio 2015\Projects\fancygui\PathFinder\obj\Debug\PathFinder.csprojResolveAssemblyReference.cache
+D:\dokumentumok\Visual Studio 2015\Projects\fancygui\PathFinder\obj\Debug\PathFinder.dll
+D:\dokumentumok\Visual Studio 2015\Projects\fancygui\PathFinder\obj\Debug\PathFinder.pdb
+D:\dokumentumok\Visual Studio 2015\Projects\fancygui\PathFinder\bin\Debug\Assimp32.dll
+D:\dokumentumok\Visual Studio 2015\Projects\fancygui\PathFinder\bin\Debug\Assimp64.dll
+D:\dokumentumok\Visual Studio 2015\Projects\fancygui\PathFinder\bin\Debug\PathFinder.dll
+D:\dokumentumok\Visual Studio 2015\Projects\fancygui\PathFinder\bin\Debug\PathFinder.pdb
+D:\dokumentumok\Visual Studio 2015\Projects\fancygui\PathFinder\bin\Debug\SharpDX.D3DCompiler.dll
+D:\dokumentumok\Visual Studio 2015\Projects\fancygui\PathFinder\bin\Debug\SharpDX.Direct2D1.dll
+D:\dokumentumok\Visual Studio 2015\Projects\fancygui\PathFinder\bin\Debug\SharpDX.Direct3D11.dll
+D:\dokumentumok\Visual Studio 2015\Projects\fancygui\PathFinder\bin\Debug\SharpDX.dll
+D:\dokumentumok\Visual Studio 2015\Projects\fancygui\PathFinder\bin\Debug\SharpDX.DXGI.dll
+D:\dokumentumok\Visual Studio 2015\Projects\fancygui\PathFinder\bin\Debug\SharpDX.Toolkit.Compiler.dll
+D:\dokumentumok\Visual Studio 2015\Projects\fancygui\PathFinder\bin\Debug\SharpDX.Toolkit.dll
+D:\dokumentumok\Visual Studio 2015\Projects\fancygui\PathFinder\bin\Debug\SharpDX.Toolkit.Game.dll
+D:\dokumentumok\Visual Studio 2015\Projects\fancygui\PathFinder\bin\Debug\SharpDX.Toolkit.Graphics.dll
+D:\dokumentumok\Visual Studio 2015\Projects\fancygui\PathFinder\bin\Debug\SharpDX.Toolkit.Input.dll
+D:\dokumentumok\Visual Studio 2015\Projects\fancygui\PathFinder\bin\Debug\SharpDX.Direct3D9.dll
+D:\dokumentumok\Visual Studio 2015\Projects\fancygui\PathFinder\bin\Debug\AssimpNet.dll
+D:\dokumentumok\Visual Studio 2015\Projects\fancygui\PathFinder\bin\Debug\SharpDX.xml
+D:\dokumentumok\Visual Studio 2015\Projects\fancygui\PathFinder\bin\Debug\SharpDX.Direct3D11.xml
+D:\dokumentumok\Visual Studio 2015\Projects\fancygui\PathFinder\bin\Debug\SharpDX.DXGI.xml
+D:\dokumentumok\Visual Studio 2015\Projects\fancygui\PathFinder\bin\Debug\SharpDX.Toolkit.xml
+D:\dokumentumok\Visual Studio 2015\Projects\fancygui\PathFinder\bin\Debug\SharpDX.Toolkit.Game.xml
+D:\dokumentumok\Visual Studio 2015\Projects\fancygui\PathFinder\bin\Debug\SharpDX.Toolkit.Graphics.xml
+D:\dokumentumok\Visual Studio 2015\Projects\fancygui\PathFinder\bin\Debug\SharpDX.Toolkit.Input.xml
+D:\dokumentumok\Visual Studio 2015\Projects\fancygui\PathFinder\bin\Debug\SharpDX.Toolkit.Compiler.xml
+D:\dokumentumok\Visual Studio 2015\Projects\fancygui\PathFinder\bin\Debug\SharpDX.D3DCompiler.xml
+D:\dokumentumok\Visual Studio 2015\Projects\fancygui\PathFinder\bin\Debug\SharpDX.Direct2D1.xml
+D:\dokumentumok\Visual Studio 2015\Projects\fancygui\PathFinder\bin\Debug\SharpDX.Direct3D9.xml
+D:\dokumentumok\Visual Studio 2015\Projects\fancygui\PathFinder\bin\Debug\AssimpNet.xml
